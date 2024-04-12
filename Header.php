@@ -1,22 +1,16 @@
 <div id="title">
-    <h1><span style="color: tomato;">MEN'S Celebration</span></h1>
+    <h1><span style="color: tomato">Men's Celebration</span></h1>
   </div>
   
- 
 <div class="container">
     <ul id="navCircle">
+      <li><a class="active" href="index.php">Home</a></li>
+       <li><a href="User.php">User</a></li>
+      <li><a href="Category.php">Category</a></li>
 
-      <li> <h4> <a class="active" href="index.php">  <span style="color: yellow">  Home </span> </a> </h4> </li>
-
-      <li>  <h4> <a href="Category.php">  <span style="color: yellow"> Category </span> </a> <h4> </li>
-
-      <li> <h4> <a href="Products.php">  <span style="color: yellow"> Products </span> </a> </h4> </li>
-
-      <li> <h4> <a href="Offers.php">  <span style="color: yellow"> Offers </span> </a> </h4> </li>
-
-      <li> <h4> <a href="Register.php">  <span style="color: yellow ">  Register </span> </a> </h4> </li>
-
-      <li> <h4> <a href="Contact.php">  <span style="color: yellow">  Contact </span> </a> </h4> </li>
+      <li><a href="Offers.php">Offers</a></li>
+ <li><a href="Orders.php">Orders</a></li>
+      <li><a href="Feedback.php">Feedback</a></li>
+       <li><a href="Logout.php">Logout</a></li>
     </ul>
-
   </div>
